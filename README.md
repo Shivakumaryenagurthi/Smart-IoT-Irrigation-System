@@ -31,6 +31,11 @@ The system continuously monitors **soil moisture, temperature, and humidity**. W
 
 Sensor readings are transmitted through the **ESP01 Wi-Fi module** to **ThingSpeak Cloud** for remote monitoring.
 
+## Hardware connections
+### Hardware 
+
+![Hardware](kit.png)
+
 ## ThingSpeak Cloud Monitoring
 
 ### Temperature Graph
@@ -44,6 +49,11 @@ Sensor readings are transmitted through the **ESP01 Wi-Fi module** to **ThingSpe
 ### Motor status graph
 
 ![Soil Moisture Graph](motor_status_graph.png)
+
+### LCD Display 
+
+![LCD Display ](lcd1.png)
+![LCD Display ](lcd2.png)
 
 ## Technologies Used
 
