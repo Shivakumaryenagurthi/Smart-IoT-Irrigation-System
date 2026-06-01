@@ -34,7 +34,7 @@ Sensor readings are transmitted through the **ESP01 Wi-Fi module** to **ThingSpe
 ## Hardware connections
 ### Hardware 
 
-![Hardware](kit.png)
+![Hardware](kit.jpeg)
 
 ## ThingSpeak Cloud Monitoring
 
@@ -52,8 +52,8 @@ Sensor readings are transmitted through the **ESP01 Wi-Fi module** to **ThingSpe
 
 ### LCD Display 
 
-![LCD Display ](lcd1.png)
-![LCD Display ](lcd2.png)
+![LCD Display ](lcd1.jpeg)
+![LCD Display ](lcd2.jpeg)
 
 ## Technologies Used
 
